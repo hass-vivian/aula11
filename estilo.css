@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(253, 219, 243);
+    margin: 0 auto;
+}
+
+div{
+    padding: 5%;
+}
+
+h1{
+    font-family: sans-serif;
+    color: darkmagenta;
+    font-size: 8em;
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+}
+
+h2{
+    font-family: sans-serif;
+    color: darkolivegreen;
+    font-size: 5em;
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+}
+
+h3{
+    font-family: sans-serif;
+    color: coral;
+    font-size: 3em;
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+}
+
+footer{
+    background-color: darkmagenta;
+    padding: .8em;
+    margin-top: 0px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 2em;
+    font-family: sans-serif;
+}
